@@ -20,7 +20,8 @@ Description
  
 Certification
 -------------
-If you complete the course, feel free to reach out to receive a certificate of completion, as the original in-person version of the course awarded a certificate at the end of the seven weeks. Contact details can be found in my Github profile.
+If you complete the course, feel free to reach out to receive a certificate of completion, as the original in-person version of the course awarded a certificate at the end of the seven weeks. Contact details can be found in my Github profile.  
+
 Credits
 --------
 This course was created and taught by members of Exeter X-AI https://www.x-ai.co.uk/, including myself.
