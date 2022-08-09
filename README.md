@@ -16,8 +16,11 @@ Description
  Youtube Playlist
  ----------------
  To see the video lectures for the course, click on the link to access the playlist.  
- https://www.youtube.com/playlist?list=PLF-EVDSukN1oiWj0J5CYPfWNGlWbLhmVj
-
+ https://www.youtube.com/playlist?list=PLF-EVDSukN1oiWj0J5CYPfWNGlWbLhmVj  
+ 
+Certification
+-------------
+If you complete the course, feel free to reach out to receive a certificate of completion, as the original in-person version of the course awarded a certificate at the end of the seven weeks. Contact details can be found in my Github profile.
 Credits
 --------
-This course was created and taught by mebers of Exeter X-AI https://www.x-ai.co.uk/, including myself.
+This course was created and taught by members of Exeter X-AI https://www.x-ai.co.uk/, including myself.
