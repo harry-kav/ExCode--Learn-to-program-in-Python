@@ -1,4 +1,4 @@
-# ExCode- Learn to program in Python
+# ExCode: Learn to program in Python
 
 Description
 -------------
