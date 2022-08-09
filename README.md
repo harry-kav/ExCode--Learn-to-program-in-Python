@@ -12,6 +12,7 @@ Description
  How to Use
  ----------
  To complete the exercises for each week, first read the slides for the week's content. Then, download the exercises.ipynb file in the week's folder, go to https://research.google.com/colaboratory/ in your browser and upload the exercises.ipynb file there. This will open the file and allow you to do the exercises. If you get stuck or want to check your answers, repeat the process for the answers file in the folder for the week.  
+NOTE- answers for week one and two can be found together in the week 2 folder.  
  
  Youtube Playlist
  ----------------
